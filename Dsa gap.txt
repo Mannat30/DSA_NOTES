@@ -1,0 +1,1 @@
+1.Climbing stairs n=0 return 1 and n= 1return 1 bcoz these is one way for stairs 0 and 1

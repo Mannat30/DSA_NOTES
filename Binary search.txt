@@ -1,0 +1,5 @@
+1.For find last and first occurrence , first check first==-1 then return here not do further.
+
+2.for count no of occurence=>last-first+1.
+
+3.for serach in rotated sorted array we find=>left and right part which part is sorted

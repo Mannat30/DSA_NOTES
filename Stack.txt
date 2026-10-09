@@ -1,0 +1,6 @@
+1.Front=0,rear=-1
+
+2.Implement queue using array and stack
+3.implement stack using queueu=>loop till SIZE-1 
+4.In queue=poll operation and in stack=pop operation
+4.Impelemnt queue using stack learn with both 1 stack as well as 2 stack

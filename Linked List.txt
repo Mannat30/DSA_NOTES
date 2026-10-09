@@ -1,0 +1,12 @@
+1.in insert at pos=>1.handle insert at head case-it is edge case 
+2.find head of cycle-one is slow and one start from head and =>move both pointer until not met both
+3.Reverse ll-2nd maintain=>prevnode,tail=>learn recoonection
+
+4.In palindrome qu=>while finding mid do while(fast.next!=null&&fast.next.next!=null)=>bcoz we want to stop slow at last node of first half.
+
+5.remove nth node from end=>make fast node n steps ahead with loop i=0 to i<=n  ,=> then do while(fast!=null)slow=slow.next and fast=fast.next then remove slow.next=slow.next.next
+
+6.Revserse nodes in between =>need to maintail tail,curr and prevnode.
+
+7.rotate list=>at last connect old tail to old head and => 2 edges case= i->if(head==null||head.next==null){return head;}
+                                                                          ii-> if(k==0){return head} 

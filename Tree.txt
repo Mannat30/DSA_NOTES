@@ -1,0 +1,2 @@
+1.Mother Vertex
+2.how to find sum of subtree and count of each subtree

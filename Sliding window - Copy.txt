@@ -1,0 +1,2 @@
+Sliding Window=>Longest non-repeating charcater=>type of longest window where first add then if invalide so shrink then find max but in this question first check condition otherwise DUPLCATE CHARCTER WILL COME=>while(set.contains(s.charAt(right))=shrink the window.
+2.Max point you ibtain from card=>total-mintotalsize

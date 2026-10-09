@@ -1,0 +1,14 @@
+1.26->need to know how to handle last element.
+2.Rotate by 1 in right->tranverse from right.
+3.In PREFIX SUM +HASHMAP-> case-1= if longest vgara needed then store first occurrence only-(!Map.contains =>then put),not overwrite.=map.put(0,-1)
+                           case-2= if qu for count=>overwrite everytime  ,map.put(0,1). 
+4.In longest consecutive sequence ,update max after while loop,not in if part.
+5.Two sum=>int need=nums[i]-target
+6.3sum,4 sum problem boundary
+
+7.max product->find max and min with comapre=>Mathmax(nums[i],max*nums[i])
+8.-Gap method
+9.-rotate matrix by 90=>clockwise=transverse+reverse every row  ,=>transpose+reverse every column
+10.Type-1=>search element in 2d matrix-treat whole matrix as one-row/m,col%m where m=no of column
+   Type-2=>serahc elembt in 2nd matrix where not row and column is continuous-like straircase
+ 
